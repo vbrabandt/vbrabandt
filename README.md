@@ -16,6 +16,7 @@ Blog: <https://vbrabandt.github.io/>
 ### My Choice of Tools
 
 - **OS**: [CachyOS](https://cachyos.org/)
+- **DE**: [KDE Plasma](https://kde.org/plasma-desktop/)
 - **IDE/Editors**: [VSCode](https://code.visualstudio.com/) (Yeah, I'm average)
 
 > I wrote an entire list of things I use, currently blog in maintenence
