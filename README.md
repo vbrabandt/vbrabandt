@@ -23,7 +23,7 @@ Blog: <https://vbrabandt.github.io/>
 
 ### Current Projects:
 - [**Blog**](https://vbrabandt.github.io/) ([Repo](https://github.com/vbrabandt/vbrabandt.github.io)) - General Personal Blog about tech and hardware (WIP, nothing serious)
-- [**CM-X61**](https://github.com/vbrabandt/CM-X61) - Compute Module retrofit-board for ThinkPad X61 (WIP)
+- [**CM-X61**](https://github.com/vbrabandt/CM-X61) - Compute Module retrofit-board for ThinkPad X61 (WIP - Private Repo for now)
 
 ### My Socials
 
