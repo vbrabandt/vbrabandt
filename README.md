@@ -21,6 +21,10 @@ Blog: <https://vbrabandt.github.io/>
 
 > I wrote an entire list of things I use, currently blog in maintenence
 
+### Current Projects:
+- [**Blog**](https://vbrabandt.github.io/) - General Personal Blog about tech and hardware (WIP, nothing serious)
+- [**CM-X61**](https://github.com/vbrabandt/CM-X61) - Compute Module retrofit-board for ThinkPad X61 (WIP)
+
 ### My Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbrabandt/)
