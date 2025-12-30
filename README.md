@@ -24,6 +24,7 @@ Blog: <https://vbrabandt.github.io/>
 ### Current Projects:
 - [**Blog**](https://vbrabandt.github.io/) ([Repo](https://github.com/vbrabandt/vbrabandt.github.io)) - General Personal Blog about tech and hardware (WIP, nothing serious)
 - [**CM-X61**](https://github.com/vbrabandt/CM-X61) - Compute Module retrofit-board for ThinkPad X61 (WIP - Private Repo for now)
+- [**VA-1**](https://github.com/vbrabandt/Brabandt_VA-1) - Ambitious Guitar Amp Design Project based on KORG 6P1 with Digital features (WIP = Still in concept phase)
 
 ### My Socials
 
