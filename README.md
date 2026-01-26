@@ -11,7 +11,8 @@
 - **My Hobbies**: Most things **Tech**, listening (& making) **Music** & **Light-Gaming**
 - **Skills**: High-Tech Literacy, Patience (seriously), and Good Sleeper
 
-Blog: <https://vbrabandt.github.io/>
+Blog: <https://vbrabandt.github.io/> \
+Band Website: <https://half-asians.github.io/>
 
 ### My Choice of Tools
 
