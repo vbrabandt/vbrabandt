@@ -1,6 +1,6 @@
 # Hello there, I'm Vincent Wutthisit Brabandt
 
-## I'm a 20yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es
+## I'm a 21yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es
 
 ![Profile views](https://komarev.com/ghpvc/?username=vbrabandt2005&label=Profile%20views&color=0e75b6&style=flat)
 
